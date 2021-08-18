@@ -1,0 +1,19 @@
+[PROJECT]
+Target=Kod.hex
+Processor_Text=PIC16F877
+CCSVersion=5.007
+Compiler=PCM
+[Target Data]
+FileList=Kod.c
+[Directories]
+Include=C:\Program Files (x86)\PICC\Devices\;C:\Program Files (x86)\PICC\Drivers\
+[Kod.c]
+Type=4
+[mru-list]
+1=Kod.c
+[Opened Files]
+1=Kod.c
+2=
+[Units]
+Count=1
+1=Kod (main)
